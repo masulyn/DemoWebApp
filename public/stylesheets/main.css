@@ -9,7 +9,9 @@ body {
   font-size: 14px;
 }
 
-.company-logo {
+.profile-photo {
+	height: 100px;
+
   float: left;
 }
 
