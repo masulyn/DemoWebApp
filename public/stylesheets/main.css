@@ -1,7 +1,7 @@
 body {
   padding-top: 70px;
   font-family: 'Work Sans', sans-serif;
-  background-color: #B0C4DE;
+  background-color: white;
   font-size: 16px;
 }
 
@@ -11,8 +11,7 @@ body {
 
 .profile-photo {
 	height: 100px;
-
-  float: left;
+	float: left;
 }
 
 main {
@@ -36,6 +35,7 @@ main {
 }
 
 .content {
+	box-shadow: 0px 4px 32px -8px rgb(76, 73, 73);
   padding: 35px;
   margin: auto;
   margin-bottom: 20px;
