@@ -1,7 +1,7 @@
 body {
   padding-top: 70px;
   font-family: 'Work Sans', sans-serif;
-  background-color: white;
+  background-color: silver;
   font-size: 16px;
 }
 
@@ -10,7 +10,7 @@ body {
 }
 
 .profile-photo {
-	height: 100px;
+	height: 300px;
 	float: left;
 }
 
@@ -43,7 +43,7 @@ main {
   background-color: white;
   border-radius: 3px;
   width: 90%;
-  min-height: 400px;
+  min-height: 375px;
   font-size: 18px;
 }
 
